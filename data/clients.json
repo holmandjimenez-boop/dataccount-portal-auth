@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "ARROW/WFIN COLOMBIA S.A.S.",
+    "nit": "901860849",
+    "password": "Arrow*",
+    "sector": "Servicios",
+    "plan": "Premium"
+  },
+  {
+    "id": 2,
+    "name": "CVA",
+    "nit": "1037637335",
+    "password": "CVA*",
+    "sector": "Servicios",
+    "plan": "Estandar"
+  },
+  {
+    "id": 3,
+    "name": "GLASST INNOVATION COMPANY S.A.S.",
+    "nit": "900406464",
+    "password": "Glasst*",
+    "sector": "Tecnologia",
+    "plan": "Premium"
+  },
+  {
+    "id": 4,
+    "name": "ROIBACK LATAM SUCURSAL COLOMBIA",
+    "nit": "900556063",
+    "password": "ROICO*",
+    "sector": "Tecnologia",
+    "plan": "Enterprise"
+  },
+  {
+    "id": 5,
+    "name": "MAJOBLONDIE",
+    "nit": "908659413",
+    "password": "MAJO*",
+    "sector": "Servicios",
+    "plan": "Estandar"
+  },
+  {
+    "id": 6,
+    "name": "DATACCOUNT",
+    "nit": "901737115",
+    "password": "DATA*",
+    "sector": "Contabilidad",
+    "plan": "Enterprise"
+  }
+]
